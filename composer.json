@@ -1,0 +1,17 @@
+{
+    "name": "long/long",
+    "description": "it is a test",
+    "license": "MIT",
+    "authors":[
+    {
+        "name":"xiaolong",
+	"email":"66461682@qq.com"
+    }
+    ],
+    "require": {},
+    "autoload":{
+         "psr-4":{
+	     "xiaolong\\":"src"
+	     }
+    }
+}
